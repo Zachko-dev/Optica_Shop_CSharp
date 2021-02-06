@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optika SvitZoryProgect", "Optika SvitZoryProgect\Optika SvitZoryProgect.csproj", "{91C03168-BBDC-4CF4-83D7-0ECEFF2AB834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C03168-BBDC-4CF4-83D7-0ECEFF2AB834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C03168-BBDC-4CF4-83D7-0ECEFF2AB834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C03168-BBDC-4CF4-83D7-0ECEFF2AB834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C03168-BBDC-4CF4-83D7-0ECEFF2AB834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F7C76B-0974-4E82-8992-2219153F6B13}
+	EndGlobalSection
+EndGlobal

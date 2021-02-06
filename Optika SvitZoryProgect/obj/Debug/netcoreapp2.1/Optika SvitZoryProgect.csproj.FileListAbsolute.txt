@@ -1,0 +1,23 @@
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.deps.json
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.runtimeconfig.json
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.runtimeconfig.dev.json
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.dll
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.pdb
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.csprojAssemblyReference.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.csproj.CoreCompileInputs.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.RazorAssemblyInfo.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.RazorAssemblyInfo.cs
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.AssemblyInfoInputs.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.AssemblyInfo.cs
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.RazorTargetAssemblyInfo.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.dll
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.pdb
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.Views.dll
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\bin\Debug\netcoreapp2.1\Optika SvitZoryProgect.Views.pdb
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.TagHelpers.input.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.TagHelpers.output.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.RazorCoreGenerate.cache
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Razor\Views\Glases\List.g.cshtml.cs
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.RazorTargetAssemblyInfo.cs
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.Views.pdb
+D:\Stady\ASP.NET CORE\Optika SvitZoryProgect\Optika SvitZoryProgect\obj\Debug\netcoreapp2.1\Optika SvitZoryProgect.csproj.CopyComplete
